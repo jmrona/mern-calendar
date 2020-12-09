@@ -1,5 +1,5 @@
-# Backend MERN - Calendar
+# Frontend and backend MERN - Calendar
 
-Backend que cree en mi curso de React: cero a expero
+This is my frontend and backend which I built when I finish the React JS course
 
 jm_rona
